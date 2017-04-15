@@ -1,0 +1,3 @@
+' main.txt - global definitions
+Global Const gc0006 = "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ.,:;-*+=~|&!_$#@()[]{}<\/>"
+Global Const gc000A = "http://www.try2hack.nl/levels/level6-ksghvb.xhtml"
